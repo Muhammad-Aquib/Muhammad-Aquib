@@ -1,19 +1,22 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Hammad Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Muhammad Aquib👋<a href="https://hammad-air.github.io/hammad/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/Muhammad-Aquib"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 <!-- ## My WordPress Course 
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
-	
-👨‍💻 AI Engineer CargoAI
-	
-💸 Help 80+ Clients via Generative AI & Automation
+🔭 I’m currently working on Ai and Web Development...
+- 🌱 I’m currently learning Generative Ai and chatbot...
+- 👯 I’m looking to collaborate on Development...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
